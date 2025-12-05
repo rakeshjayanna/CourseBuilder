@@ -128,7 +128,7 @@ Feel free to open issues, suggest features, or fork and enhance the UI/UX!
 
 ## 👩‍💻 Author
 
-**Roopashree R.**  
+**Rakesh J**  
  🧑‍💻 [GitHub](https://github.com/rakeshjayanna)
 
 ---
