@@ -6,14 +6,7 @@ Smart Course Builder is a **personalized AI study planner** built with **Streaml
 
 ---
 
-## 🚀 Live Demo
 
-Check out the live version of the app here:
-
-👉 [Live Demo on Streamlit Cloud](https://coursebuilderai-npm2jqyzgegpuuobpefaa7.streamlit.app/)
-
-
----
 
 ## ✨ Features
 
